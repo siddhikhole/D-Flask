@@ -1,1 +1,1 @@
-web: gunicorn BeautifulSoup:app --log-file=-
+web:gunicorn BeautifulSoup:app --log-file=-
